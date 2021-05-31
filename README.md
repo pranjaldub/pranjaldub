@@ -4,7 +4,7 @@
 
 <br>
 
-Stack Overflow
+### <div style="color:Blue;font-size:50px">STACK OVERFLOW</div>
 
 <a href="https://stackoverflow.com/users/13990024/pranjal-dubey">
   <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://media.giphy.com/media/xT0GqCppDBMGwe7FSw/source.gif" alt="this slowpoke moves"  width="100" /></div><p><a href="https://giphy.com/gifs/gj4QQwKvcLi66Yn5IG"></a></p>
@@ -16,7 +16,7 @@ Stack Overflow
 <br>
 
 
-## &#x1f4c8; Connect with me on LinkedIn &nbsp; <a href="https://www.linkedin.com/in/pranjal-d-6060a2183/"><hr>
+### <div style="color:Blue;font-size:50px">Connect on Linkedin</div> &nbsp; <a href="https://www.linkedin.com/in/pranjal-d-6060a2183/"><hr>
   <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/source.gif" alt="this slowpoke moves"  width="100" /></div><p><a href="https://giphy.com/gifs/gj4QQwKvcLi66Yn5IG">
 </a>
 
