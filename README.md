@@ -23,7 +23,7 @@
 ### 🛠 &nbsp; My tech Stack
   <hr>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /img>
 ![Angular](https://img.shields.io/badge/-Angular-05122B?style=flat&logo=Angular)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122C?style=flat&logo=Typescript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HHTML5&logoColor=1572B6)&nbsp;
