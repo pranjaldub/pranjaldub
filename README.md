@@ -12,7 +12,7 @@ Stack Overflow
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pranjaldub)
 
-<h1>My name is Pranjal and I"m a student who is passionate about building tech, teaching and learning new technologies .</h1>
+  <h3>My name is <h2>Pranjal</h2> and I"m a <h2>student</h2> who is passionate <h2>about building tech and learning new technologies</h2> .</h3>
 <br>
  <br>
   <br>
