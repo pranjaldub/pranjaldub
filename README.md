@@ -1,4 +1,4 @@
-<div style="background:url("https://unsplash.com/photos/PHtp0cDBJSM")">
+<div style="background-url("https://unsplash.com/photos/PHtp0cDBJSM")">
 
 ### Hi there <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/source.gif" alt="this slowpoke moves"  width="250" />
 
@@ -7,7 +7,7 @@
 Stack Overflow
 <hr>
 <a href="https://stackoverflow.com/users/13990024/pranjal-dubey">
-  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://media.giphy.com/media/xT0GqCppDBMGwe7FSw/source.gif" alt="this slowpoke moves"  width="250" /></div><p><a href="https://giphy.com/gifs/gj4QQwKvcLi66Yn5IG">via GIPHY</a></p>
+  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://media.giphy.com/media/xT0GqCppDBMGwe7FSw/source.gif" alt="this slowpoke moves"  width="100" /></div><p><a href="https://giphy.com/gifs/gj4QQwKvcLi66Yn5IG"></a></p>
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pranjaldub)
@@ -19,6 +19,7 @@ Connect with me on LinkedIn &nbsp; <a href="https://www.linkedin.com/in/pranjal-
 </a>
 
 ### 🛠 &nbsp; My tech Stack
+  <hr>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)&nbsp;
