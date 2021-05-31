@@ -14,8 +14,8 @@ Stack Overflow
 
 My name is Pranjal and I"m a student who is passionate about building tech, teaching and learning new technologies .
 <br>
---> Connect with me on LinkedIn &nbsp; <a href="https://www.linkedin.com/in/pranjal-d-6060a2183/">
-  <img align="left" alt="Pranjal's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+Connect with me on LinkedIn &nbsp; <a href="https://www.linkedin.com/in/pranjal-d-6060a2183/">
+  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/source.gif" alt="this slowpoke moves"  width="100" /></div><p><a href="https://giphy.com/gifs/gj4QQwKvcLi66Yn5IG">
 </a>
 
 ### 🛠 &nbsp; My tech Stack
