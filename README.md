@@ -1,8 +1,11 @@
+<style>
+  html{
+  background-color:cyan;
+  }
+  </style>
+
 ### Hi there <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/source.gif" alt="this slowpoke moves"  width="250" />
 
-<a href="https://www.linkedin.com/in/pranjal-d-6060a2183/">
-  <img align="left" alt="Pranjal's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 <br>
 <br>
 Stack Overflow
@@ -13,9 +16,13 @@ Stack Overflow
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pranjaldub)
 
-My name is Pranjal and I"m a student who is passionate about building tech, teaching and learning new technologies 
+My name is Pranjal and I"m a student who is passionate about building tech, teaching and learning new technologies .
+<br>
+Connect with me on LinkedIn &nbsp; <a href="https://www.linkedin.com/in/pranjal-d-6060a2183/">
+  <img align="left" alt="Pranjal's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp; My tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)&nbsp;
