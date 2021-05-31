@@ -1,9 +1,9 @@
 <div style="background-color:blue">
 
-  ### <div style="color:Blue;font-size:50px">Hi there</div> <br> <img style="border-radius:30px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/source.gif" alt="this slowpoke moves"  width="100" />
+  ### <div style="color:Blue;font-size:50px">Hi there</div> <br><img style="border-radius:30px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/source.gif" alt="this slowpoke moves"  width="100" />
 
 <br>
-<br>
+
 Stack Overflow
 <hr>
 <a href="https://stackoverflow.com/users/13990024/pranjal-dubey">
@@ -12,7 +12,7 @@ Stack Overflow
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pranjaldub)
 
-  <h3>My name is <strong>Pranjal</strong> and I"m a <strong>student</strong> who is passionate <strong>about building tech and learning new technologies</strong> .</h3>
+  <h3>" My name is <strong>Pranjal</strong> and I"m a <strong>student</strong> who is passionate <strong>about building tech and learning new technologies</strong> . "</h3>
 <br>
  <br>
   <br>
