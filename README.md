@@ -3,6 +3,10 @@
 <a href="https://www.linkedin.com/in/pranjal-d-6060a2183/">
   <img align="left" alt="Pranjal's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<br>
+<br>
+Stack Overflow
+<hr>
 <a href="https://stackoverflow.com/users/13990024/pranjal-dubey">
   <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://media.giphy.com/media/xT0GqCppDBMGwe7FSw/source.gif" alt="this slowpoke moves"  width="250" /></div><p><a href="https://giphy.com/gifs/gj4QQwKvcLi66Yn5IG">via GIPHY</a></p>
 </a>
