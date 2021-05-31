@@ -33,6 +33,8 @@
 ![JUPYTER](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![CONDA](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)&nbsp;
 ![SCIKIT LEARN](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
+![KERAS](https://img.shields.io/badge/KERAS-239120?&style=for-the-badge&logo=keras&logoColor=white)&nbsp;
+![PYTORCH](https://img.shields.io/badge/Pytorch-3776AB?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;
 ![FASTAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)&nbsp;
 ![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 <br />
