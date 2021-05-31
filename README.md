@@ -1,10 +1,10 @@
 <div style="background-color:blue">
 
-  ### <div style="color:Blue;font-size:50px">Hi there</div> <br><img style="border-radius:30px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/source.gif" alt="this slowpoke moves"  width="100" />
+  ### <div style="color:Blue;font-size:50px">## &#x1f4c8; Hi there</div> <br><img style="border-radius:30px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/source.gif" alt="this slowpoke moves"  width="100" />
 
 <br>
 
-Stack Overflow
+## &#x1f4c8; Stack Overflow
 
 <a href="https://stackoverflow.com/users/13990024/pranjal-dubey">
   <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://media.giphy.com/media/xT0GqCppDBMGwe7FSw/source.gif" alt="this slowpoke moves"  width="100" /></div><p><a href="https://giphy.com/gifs/gj4QQwKvcLi66Yn5IG"></a></p>
@@ -16,7 +16,7 @@ Stack Overflow
 <br>
 
 
-Connect with me on LinkedIn &nbsp; <a href="https://www.linkedin.com/in/pranjal-d-6060a2183/"><hr>
+## &#x1f4c8; Connect with me on LinkedIn &nbsp; <a href="https://www.linkedin.com/in/pranjal-d-6060a2183/"><hr>
   <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/source.gif" alt="this slowpoke moves"  width="100" /></div><p><a href="https://giphy.com/gifs/gj4QQwKvcLi66Yn5IG">
 </a>
 
