@@ -5,7 +5,7 @@
 <br>
 
 Stack Overflow
-<hr>
+
 <a href="https://stackoverflow.com/users/13990024/pranjal-dubey">
   <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://media.giphy.com/media/xT0GqCppDBMGwe7FSw/source.gif" alt="this slowpoke moves"  width="100" /></div><p><a href="https://giphy.com/gifs/gj4QQwKvcLi66Yn5IG"></a></p>
 </a>
@@ -14,9 +14,9 @@ Stack Overflow
 
   <h3>" My name is <strong>Pranjal</strong> and I"m a <strong>student</strong> who is passionate <strong>about building tech and learning new technologies</strong> . "</h3>
 <br>
- <br>
-  <br>
-Connect with me on LinkedIn &nbsp; <a href="https://www.linkedin.com/in/pranjal-d-6060a2183/"><hr><br>
+
+
+Connect with me on LinkedIn &nbsp; <a href="https://www.linkedin.com/in/pranjal-d-6060a2183/"><hr>
   <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/source.gif" alt="this slowpoke moves"  width="100" /></div><p><a href="https://giphy.com/gifs/gj4QQwKvcLi66Yn5IG">
 </a>
 
