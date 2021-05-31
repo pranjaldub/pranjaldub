@@ -31,6 +31,7 @@ My name is Pranjal and I"m a student who is passionate about building tech, teac
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=SQL-Server)&nbsp;
 ![C#](https://img.shields.io/badge/C%23%20-05122A?style=flat&logo=c-sharp&logoColor=FFA518)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio&logoColor=007ACC)&nbsp;
+  <br>
 ## &#x1f4c8; GitHub Stats
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranjaldub&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" /></p>
