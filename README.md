@@ -1,4 +1,4 @@
-<div style="background-url("https://unsplash.com/photos/PHtp0cDBJSM")">
+<div style="background-color:url("https://unsplash.com/photos/PHtp0cDBJSM")">
 
 ### Hi there <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/source.gif" alt="this slowpoke moves"  width="250" />
 
