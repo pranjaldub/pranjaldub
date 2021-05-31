@@ -1,6 +1,6 @@
 <div style="background-color:blue">
 
-  ### <div style="color:Blue;font-size:50px">## &#x1f4c8; Hi there</div> <br><img style="border-radius:30px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/source.gif" alt="this slowpoke moves"  width="100" />
+  ### <div style="color:Blue;font-size:50px">&#x1f4c8; Hi there</div> <br><img style="border-radius:30px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/source.gif" alt="this slowpoke moves"  width="100" />
 
 <br>
 
@@ -24,8 +24,8 @@
   <hr>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122B?style=flat&logo=Angular)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-05122C?style=flat&logo=Typescript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HHTML5&logoColor=1572B6)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
