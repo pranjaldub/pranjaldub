@@ -12,11 +12,11 @@ Stack Overflow
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pranjaldub)
 
-  <h3>My name is <h2>Pranjal</h2> and I"m a <h2>student</h2> who is passionate <h2>about building tech and learning new technologies</h2> .</h3>
+  <h3>My name is <strong>Pranjal</strong> and I"m a <strong>student</strong> who is passionate <strong>about building tech and learning new technologies</strong> .</h3>
 <br>
  <br>
   <br>
-Connect with me on LinkedIn &nbsp; <a href="https://www.linkedin.com/in/pranjal-d-6060a2183/"><br>
+Connect with me on LinkedIn &nbsp; <a href="https://www.linkedin.com/in/pranjal-d-6060a2183/"><hr><br>
   <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/source.gif" alt="this slowpoke moves"  width="100" /></div><p><a href="https://giphy.com/gifs/gj4QQwKvcLi66Yn5IG">
 </a>
 
