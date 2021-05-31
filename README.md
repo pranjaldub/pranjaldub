@@ -1,8 +1,4 @@
-<style>
-  html{
-  background-color:cyan;
-  }
-  </style>
+<div style="background:url("https://unsplash.com/photos/PHtp0cDBJSM")">
 
 ### Hi there <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/source.gif" alt="this slowpoke moves"  width="250" />
 
@@ -44,3 +40,5 @@ Connect with me on LinkedIn &nbsp; <a href="https://www.linkedin.com/in/pranjal-
  <br />
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pranjaldub&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+
+</div>
