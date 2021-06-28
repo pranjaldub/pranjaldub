@@ -12,7 +12,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pranjaldub)
 
-  <h3>" My name is <strong>Pranjal</strong> and I"m a <strong>student</strong> who is passionate <strong>about building tech and learning new technologies</strong> . "</h3>
+  <h3>" I <strong>build things</strong>"</h3>
 <br>
 
 
